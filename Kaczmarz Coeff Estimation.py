@@ -1,8 +1,5 @@
-# %% [markdown]
-# ## Implementation of Kaczmarz algorithm for updating the weights in a Polynomial linear regrsssion
-
 # %%
-#grade (write your code in this cell and DO NOT DELETE THIS LINE)
+## Implementation of Kaczmarz algorithm for updating the weights in a Polynomial linear regrsssion
 import numpy as np
 from matplotlib import pyplot as plt
 import pandas as pd
